@@ -18,16 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Taylor M Cook
+email: TaylorMCook@utexas.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I am a Doctoral student in Community and Regional Planning at the Universtiy of Texas.
+My resaech is at the intersection of housing, homelessness, and healthcare. After years 
+of public and non-profit service I am eager to use a variety of methods to explore these 
+issues and collaborate with front line workers and people with lived experience to identify 
+and test solutions.  
+This website about my work, research, and interests. There may also be some photos of my 
+dogs, adventures with my husband, and the occasional vegan recipe.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  TaylorMCook
 
 # Build settings
 # theme: jekyll-theme-clean-blog
