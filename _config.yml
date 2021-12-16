@@ -20,8 +20,8 @@
 
 title: Taylor M Cook
 email: TaylorMCook@utexas.edu
-description: >- # this means to ignore newlines until "baseurl:"
-I am a Doctoral student in Community and Regional Planning at the Universtiy of Texas. My resaech is at the intersection of housing, homelessness, and healthcare. After years of public and non-profit service I am eager to use a variety of methods to explore these issues and collaborate with front line workers and people with lived experience to identify and test solutions. This website about my work, research, and interests. There may also be some photos of my dogs, adventures with my husband, and the occasional vegan recipe.
+description: >
+  I am a Doctoral student in Community and Regional Planning at the Universtiy of Texas. My resaech is at the intersection of housing, homelessness, and healthcare. After years of public and non-profit service I am eager to use a variety of methods to explore these issues and collaborate with front line workers and people with lived experience to identify and test solutions. This website about my work, research, and interests. There may also be some photos of my dogs, adventures with my husband, and the occasional vegan recipe.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  TaylorMCook
