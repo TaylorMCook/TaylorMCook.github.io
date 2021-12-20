@@ -1,9 +1,9 @@
 ---
 layout: post 
-title: "Housing Reparations OpEd"
+title: "To Save The American Dream We Need Reparations"
 date: 2021-12-20 15:55:53 -0600
 ---
-# To Save The American Dream We Need Reparations
+# Housing Justice Op-Ed
 
 Racism has been perpetuated and institutionalized so effectively through housing policy that it is increasingly unbelievable that stability and wealth creation through homeownership is even possible for households who are not already in this privileged class. Black families are more than 16 times as likely as white families to experience multiple successive generations of poverty and Black adults are much more likely to fall into poverty than white adults. In this increasingly unequal context with diminishing chances of upward mobility, reparations are not a radical, divisive, antiquated policy long-shot; Reparations might be our last best chance to ensure that all industrious Americans, enabled by free-market institutions, have equal opportunity for material success: the American Dream.  
 
